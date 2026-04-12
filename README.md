@@ -808,6 +808,7 @@ API | Description | Auth | HTTPS | CORS |
 | [TheCocktailDB](https://www.thecocktaildb.com/api.php) | Cocktail Recipes | `apiKey` | Yes | Yes |
 | [TheMealDB](https://www.themealdb.com/api.php) | Meal Recipes | `apiKey` | Yes | Yes |
 | [Untappd](https://untappd.com/api/docs) | Social beer sharing | `OAuth` | Yes | Unknown |
+| [USDA FoodData Central](https://fdc.nal.usda.gov/api-guide.html) | U.S. government food and nutrition database | apiKey | Yes | Unknown |
 | [What's on the menu?](http://nypl.github.io/menus-api/) | NYPL human-transcribed historical menu collection | `apiKey` | No | Unknown |
 | [WhiskyHunter](https://whiskyhunter.net/api/) | Past online whisky auctions statistical data | No | Yes | Unknown |
 | [Zestful](https://zestfuldata.com/) | Parse recipe ingredients | `apiKey` | Yes | Yes |
